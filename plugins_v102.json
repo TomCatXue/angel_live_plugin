@@ -1,0 +1,15 @@
+{
+  "apiVersion": 1,
+  "sourceName": "MissAV Source",
+  "plugins": [
+    {
+      "pluginId": "missav_live",
+      "version": "1.0.2",
+      "platform": "missav_live",
+      "platformName": "MissAV",
+      "zipURL": "https://raw.githubusercontent.com/TomCatXue/angel_live_plugin/main/missav_v102.zip",
+      "sha256": "923108072328014ee0e86ee39989f99914f0daa1e0894b9e598fe190338a582c",
+      "visibility": "public"
+    }
+  ]
+}
